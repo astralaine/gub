@@ -1,4 +1,8 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+  Info:
+    - fixed steam profile redirect
+---------------------------------------------------------------------------------------------------
 Version: 0.0.2
   Info:
     - Changed the thumbnail so that gub may more easily be understood by the masses.
