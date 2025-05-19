@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+  Info:
+    - fixed in-game capitalization of modified items
+    - fixed certain items not being renamed correctly
+    - changed a LOT more items to their correct names (smh wube making me do this for you)
+    - changed certain technology names and descriptions to match the correct names
+---------------------------------------------------------------------------------------------------
 Version: 0.0.3
   Info:
     - fixed steam profile redirect

@@ -1,9 +1,10 @@
 {
     "name": "gub-mod",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "title": "gub mod",
     "author": "astralaine",
     "contact": "https://steamcommunity.com/id/astralaine",
     "factorio_version": "2.0",
-    "description": "changes all gubs so that their names are better"
+    "description": "changes all gubs so that their names are better",
+    "dependencies": ["space-age > 0.0.0"]
   }
